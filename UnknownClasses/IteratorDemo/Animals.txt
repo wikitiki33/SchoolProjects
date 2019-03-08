@@ -1,0 +1,7 @@
+Cat, White
+Dog, Black
+Rabbit, Black and White
+Dolphin, Blue
+Elephant, Gray
+Zebra, Black and White
+Snake, Green

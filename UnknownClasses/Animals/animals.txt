@@ -1,0 +1,1 @@
+Number 1 name Tiger color Brown Type Vertebrate Swim? NoNumber 2 name Lion color Yellow Type Vertebrate Swim? NoNumber 3 name Shark color Blue Type Vertebrate Swim? Yes
